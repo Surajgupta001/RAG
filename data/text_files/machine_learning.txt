@@ -1,0 +1,10 @@
+Machine Learning Basic
+Machine learning is a subset of artificial intelligence (AI) that focuses on developing algorithms and statistical models that enable computers to learn from and make predictions or decisions based on data. It involves training a model on a dataset, allowing it to identify patterns and relationships within the data, and then using that model to make predictions or classifications on new, unseen data.
+
+Types of machine learning:
+1. Supervised Learning: In supervised learning, the model is trained on a labeled dataset, where each input is paired with the correct output. The model learns to map inputs to outputs and can make predictions on new data.
+2. Unsupervised Learning: In unsupervised learning, the model is trained on an unlabeled dataset, where the goal is to find hidden patterns or structures in the data. Common techniques include clustering and dimensionality reduction.
+3. Reinforcement Learning: In reinforcement learning, an agent learns to make decisions by interacting with an environment. The agent receives feedback in the form of rewards or penalties based on its actions, and it aims to maximize cumulative rewards over time.
+
+Applications of machine learning include image recognition, natural language processing, recommendation systems, and autonomous vehicles, among others. As machine learning continues to evolve, it is becoming increasingly integral to various industries and technological advancements.
+    
