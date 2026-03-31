@@ -23,3 +23,5 @@ faiss-cpu
 chromadb
 
 python-dotenv
+
+typesense
