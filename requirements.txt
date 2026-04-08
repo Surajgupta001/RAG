@@ -1,9 +1,12 @@
 langchain
 langchain-core
 langchain-community
-langchain-openai
+
+langchain-google-genai
+google-generativeai
+langgraph
+
 langchain-text-splitters
-langchain-groq
 
 faiss-cpu
 chromadb
@@ -15,13 +18,4 @@ pymupdf
 
 python-dotenv
 
-tiktoken
-
 unstructured
-
-faiss-cpu
-chromadb
-
-python-dotenv
-
-typesense
